@@ -1,0 +1,2 @@
+Run the recommender.ipynb and create the .pkl files 
+Copy or cut the pkl files into the same folder as the app.py file
