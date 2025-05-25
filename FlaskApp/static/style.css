@@ -1,0 +1,61 @@
+body {
+    background-color: #121212;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+}
+
+select {
+    width: 80%;
+    padding: 10px;
+    font-size: 16px;
+    margin: 20px 0;
+    background-color: #1e1e1e;
+    color: white;
+    border: 1px solid #444;
+    border-radius: 5px;
+}
+
+.btn {
+    padding: 12px 25px;
+    font-size: 16px;
+    background-color: #03dac5;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #018786;
+}
+
+.recommend-table {
+    margin: 30px auto;
+    border-collapse: collapse;
+    width: 80%;
+    border: 2px solid red;
+}
+
+.recommend-table th,
+.recommend-table td {
+    border: 1px solid red;
+    padding: 12px;
+    font-size: 16px;
+}
+
+.recommend-table th {
+    background-color: #1f1f1f;
+    color: #ff5252;
+}
+
+.recommend-table td {
+    background-color: #2a2a2a;
+}
